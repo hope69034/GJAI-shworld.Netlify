@@ -76,12 +76,12 @@ function Resume() {
             <h2>Netlify Resume</h2>
             <a href="https://github.com/hope69034/shworldNetlify" target='_blank'>Github</a><br></br>
             2022.10.19 ~ <br></br>
-            HTML, CSS3.<br></br>
-            본 화면, 무료 서버 Netlify를 통한 실전 학습.
+            Netlify, React, HTML, CSS3, JavaScript.<br></br>
+            본 서버, 무료 서버 Netlify를 통한 실전 학습.
             <h2>두피 타입 진단 시스템 확장</h2>
             <a href="https://velog.io/@shlog/%EB%91%90%ED%94%BC-%EC%A7%84%EB%8B%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%99%95%EC%9E%A5" target='_blank'>Blog</a><br></br>
             2022.10.19 ~ <br></br>
-            모델 정확도를 올리고 wep무료서버와 app에 올리는 것이 목표.<br></br>
+            모델 정확도를 올리고 wep server, app에 올리는 것이 목표.<br></br>
             플라스크 코드를 리액트 코드로 바꿔야 편할 듯.
             <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
         </body>
