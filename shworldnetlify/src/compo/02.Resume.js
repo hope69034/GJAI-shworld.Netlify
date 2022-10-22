@@ -1,6 +1,6 @@
 
-const styleBody = {backgroundColor : 'white', color: 'black', marginLeft: '35px'}
-
+/* const styleBody = {backgroundColor : 'white', color: 'black', marginLeft: '35px'} */
+const styleBody = {backgroundColor : 'white', color: 'black', padding: '30px'}
 function Resume() {
 
     return (
