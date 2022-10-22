@@ -15,12 +15,20 @@ function Resume() {
             <a href="https://velog.io/@shlog/" target='_blank'>Blog</a><br></br>
             <a href="https://github.com/hope69034" target='_blank'>Github</a>
 
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
             <h1>2. Skills</h1>
             <h2>Backend</h2>
             Python, Node.js, Express, MySQL.
             <h2>Frontend</h2>
             JavaScript, React.
 
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
             <h1>3. Project</h1>
             <h2>두피 타입 진단 시스템</h2>
             <a href="https://velog.io/@shlog/첫프로젝트기록" target='_blank'>Project Review</a><br></br>
@@ -33,6 +41,10 @@ function Resume() {
             2022.10.14 ~ 2022. <br></br>
             고객 데이터를 활용한 AI 비서 시스템.
 
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
             <h1>4. Experience</h1>
             <h2>광주인공지능사관학교 3기 서포터즈</h2>
             <a href="https://blog.naver.com/sogm5093" target='_blank'>Supporters Blog</a><br></br>
@@ -44,6 +56,10 @@ function Resume() {
             2022.10.11 ~ 2022.10.15<br></br>
             교내 코딩 문제 풀이 개인(98명 중 26위), 팀(6위 장려상 입상) 기록.
 
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
             <h1>5. Education</h1>
             <h2>광주인공지능사관학교 3기</h2>
             <a href="https://gj-aischool.or.kr/" target='_blank'>GJ-AIschool</a><br></br>
@@ -52,6 +68,10 @@ function Resume() {
             JavaScript, Node.js, Express, PyTorch, Flask, React, ejs, MySQL, Git,<br></br>
             Github, Slack, VS Code, Colab Notebooks.
 
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
             <h1>6. Side Project</h1>
             <h2>Netlify Resume</h2>
             <a href="https://github.com/hope69034/shworldNetlify" target='_blank'>Github</a><br></br>
