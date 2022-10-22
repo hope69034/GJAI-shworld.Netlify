@@ -7,9 +7,9 @@ function Door() {
         <>
             <div className="App">
                 <header className="App-header">
-                    AI Life Concierge System
-                    <Link to='/Main' ><img src={logo} className="App-logo" alt="logo" /></Link>
-                    Team Eclipse
+                The Curious Developer SeHyoung
+                    <Link to='/Resume' ><img src={logo} className="App-logo" alt="logo" /></Link>
+                    Welcome to SHworld
                 </header>
             </div>
 

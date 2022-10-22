@@ -5,9 +5,9 @@ import './App.css';
 // import compo 
 import Header from './compo/00.Header.js'
 import Door from './compo/01.Door';
-import Main from './compo/02.Main';
-import Join from './compo/03.Join';
-import Login from './compo/04.Login';
+import Resume from './compo/02.Resume';
+import Project1 from './compo/03.Project1';
+import Project2 from './compo/04.Project2';
 
 function App() {
 
@@ -16,10 +16,12 @@ function App() {
       <Header></Header>
 
       <Routes>
+        
         <Route path='/' element={<Door></Door>}></Route>
-        <Route path='/Main' element={<Main></Main>}></Route>
-        <Route path='/Join' element={<Join></Join>}></Route>
-        <Route path='/Login' element={<Login></Login>}></Route>
+        <Route path='/Resume' element={<Resume></Resume>}></Route>
+        <Route path='/Project1' element={<Project1></Project1>}></Route>
+        <Route path='/Project2' element={<Project2></Project2>}></Route>
+
       </Routes>
 
     </>
