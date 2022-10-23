@@ -8,7 +8,7 @@ function Resume() {
             <h1>1. About Me</h1>
             궁금증이 많은 개발자, 최세형입니다.
             <h2>Introduction</h2>
-            모르는 code에 대한 test와 question을 즐깁니다.<br></br>
+            모르는 코드에 대한 trial과 question을 즐깁니다.<br></br>
             개발에 몰입하는 것을 좋아합니다.
             <h2>Contact</h2>
             E-mail : hope69034@gmail.com<br></br>

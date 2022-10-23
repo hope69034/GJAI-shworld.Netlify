@@ -9,7 +9,7 @@ function Door() {
                 <header className="App-header">
                 The Curious Developer SeHyoung
                     <Link to='/Resume' ><img src={logo} className="App-logo" alt="logo" /></Link>
-                    Welcome to SHworld
+                    Trial and Question
                 </header>
             </div>
 
