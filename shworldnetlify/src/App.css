@@ -1,3 +1,16 @@
+.project1body{
+  background-color: #282c34;
+}
+
+.project1a{
+  color:rgb(0, 174, 255);
+  margin: 20px;
+ 
+}
+.project1png{
+  width: 100%;
+ 
+}
 .App {
   text-align: center;
 }
@@ -25,7 +38,7 @@
   color: white;
 }
 
-/* Welcome to SHworld 색상 */
+/* trial n question 색상 */
 .App-link {
   color: #ffffff;
   /* color: #61dafb; */
