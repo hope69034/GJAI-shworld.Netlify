@@ -14,7 +14,7 @@ function Header() {
             <Link to='/' style={styleDoor}> Door </Link>
             <Link to='/Resume' style={styleResume}> Resume </Link>
             <Link to='/Project1' style={styleProject1}> Project1 </Link>
-            <Link to='/Project2' style={styleProject2}> Project2 </Link>
+          {/*   <Link to='/Project2' style={styleProject2}> Project2 </Link> */}
         </body>
 
         </>

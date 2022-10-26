@@ -1,6 +1,6 @@
 
 import React from 'react';
-import imgA from '../img/project1png.png';
+import img2 from '../img/2png.png';
 import { Link } from 'react-router-dom'
 
 function Project1() {
@@ -9,8 +9,7 @@ function Project1() {
 
         
         <body className="project1body">
-           
-            <img className="project1png" src={imgA}/>
+         <img className="project1png" src={img2}/>
             <br></br><br></br>
             <a className='project1a' href="https://velog.io/@shlog/첫프로젝트기록" target='_blank'>  Project1 Review</a> 
             
