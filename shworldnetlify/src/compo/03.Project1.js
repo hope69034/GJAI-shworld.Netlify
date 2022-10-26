@@ -1,6 +1,6 @@
 
 import React from 'react';
-import imgA from '../img/p1png.png';
+import imgA from '../img/project1png.png';
 import { Link } from 'react-router-dom'
 
 function Project1() {
