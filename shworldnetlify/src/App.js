@@ -13,14 +13,14 @@ function App() {
 
   return (
     <>
-      <Header></Header>
+      {/* <Header></Header> */}
 
       <Routes>
         
-        <Route path='/' element={<Door></Door>}></Route>
-        <Route path='/Resume' element={<Resume></Resume>}></Route>
-        <Route path='/Project1' element={<Project1></Project1>}></Route>
-        <Route path='/Project2' element={<Project2></Project2>}></Route>
+        {/* <Route path='/' element={<Door></Door>}></Route> */}
+        <Route path='/' element={<Resume></Resume>}></Route>
+        {/* <Route path='/Project1' element={<Project1></Project1>}></Route>
+        <Route path='/Project2' element={<Project2></Project2>}></Route> */}
 
       </Routes>
 
